@@ -40,3 +40,6 @@ tpu_use_cluster: false
 tpu_use_sudo: false
 use_cpu: false
 ```
+
+multi gpu
+https://qiita.com/m__k/items/518ac10399c6c8753763
